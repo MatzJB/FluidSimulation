@@ -15,3 +15,5 @@ Magnus effect
 
 ![magnus_force](https://user-images.githubusercontent.com/14231209/57584699-97367100-74de-11e9-9666-af98eb252bb0.png)
 
+Flow around a plane's wing
+![Flow_around_a_wing](https://user-images.githubusercontent.com/14231209/57584737-1330b900-74df-11e9-9e36-118a3dd3df8e.gif)
