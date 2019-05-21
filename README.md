@@ -1,5 +1,5 @@
 # FluidSimulation
-Fluid simulation code written in Processing and using glsl (C++).
+Fluid simulation code written in Processing (https://processing.org/).
 
 
 This fluid simulation code is using Mark Ash as a template, read https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html
@@ -17,3 +17,5 @@ Flow simulation using a Tesla Valve
 
 * Flow around a plane's wing
 ![Flow_around_a_wing](https://user-images.githubusercontent.com/14231209/57584737-1330b900-74df-11e9-9e36-118a3dd3df8e.gif)
+
+* Rewrite using WebGL/glsl
